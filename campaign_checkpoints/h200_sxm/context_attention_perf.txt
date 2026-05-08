@@ -92,3 +92,10 @@ VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,2,1536,16,16,256,1,bfl
 VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,32,128,48,1,256,1,bfloat16,fp8,0,0.01526933287580808
 VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,4,16,64,64,256,1,bfloat16,fp8,0,0.0205226664741834
 VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,32,4096,32,2,128,1,bfloat16,bfloat16,0,0.2371306618054708
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,16,1,8,1,256,1,bfloat16,bfloat16,0,0.01091733326514562
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,32,2048,2,2,128,1,bfloat16,bfloat16,0,0.1697439948717753
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,8,1024,4,2,128,1,bfloat16,bfloat16,0,0.039477333426475525
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,32,1536,2,2,128,1,bfloat16,fp8,0,0.14101866881052652
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,1,1024,8,2,128,1,bfloat16,bfloat16,0,0.0222080002228419
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,32,1536,8,8,256,1,bfloat16,bfloat16,0,0.6287466684977213
+VLLM,0.20.0,NVIDIA H200,context_attention,vllm_flash_attn,256,1,48,2,256,1,bfloat16,fp8,0,0.042837331692377724
